@@ -25,7 +25,7 @@ const QuoteBox = () => {
                 <Card.Header>Quote</Card.Header>
                 <Card.Body>
                     <blockquote className="blockquote mb-0">
-                    <i class="fa-solid fa-quote-left"></i>
+                    <i className="fa-solid fa-quote-left"></i>
                         <p>
                             {' '}
                             {quotes[date].quote}{' '}
